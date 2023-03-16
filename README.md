@@ -2,5 +2,7 @@
 Habituarnos al ciclo de trabajo con Git
 
 Hola
+patata
 tomate
-adios
+cebolla
+
