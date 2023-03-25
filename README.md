@@ -5,3 +5,5 @@ Hola
 patata
 tomate
 cebolla
+
+Nueva funcionalidad añadida: customización de los colores del juego
